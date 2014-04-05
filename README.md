@@ -5,6 +5,8 @@ This is the README for the Dota 2 Linux and Mac client.
 
 Please use this repository to report bugs for Dota 2 on Linux and Mac.
 
+The language used for this tracker is English.  If this is a challenge, please consider using an  online translator to convert your post into English.  This does not extend to system information, but rather, only to actual report text.
+
 Matchmaking notifications on Linux
 ----------------------------------
 
