@@ -10,7 +10,7 @@ The language used for this tracker is English.  If this is a challenge, please c
 Matchmaking notifications on Linux
 ----------------------------------
 
-On Linux, Dota 2 will use the `notify-send` and `play` commands to notify the user when a match becomes available.
+On Linux, Dota 2 will use the `notify-send` and `aplay` commands to notify the user when a match becomes available.
 
 Conduct
 -------
